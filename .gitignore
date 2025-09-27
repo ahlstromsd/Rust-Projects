@@ -3,3 +3,8 @@ target/
 .vscode-server/
 *.log
 
+
+
+# Added by cargo
+
+/target
